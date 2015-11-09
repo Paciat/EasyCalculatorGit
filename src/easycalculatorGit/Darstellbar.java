@@ -5,6 +5,8 @@ package easycalculator;
  * bspw. Konsole beherrschen muss.
  *
  * @author Patricia Füruter
+ * 
+ * schreib noch was
  */
 public interface Darstellbar {
 
